@@ -1,2 +1,2 @@
-# C---Projects
+# C-Projects
 Exercises and projects in C language
